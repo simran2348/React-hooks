@@ -1,9 +1,9 @@
-import UseRefExample3 from './Components/UseRefExample3'
+import UseCallbackExample from './Components/UseCallbackExample'
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseRefExample3 />
+      <UseCallbackExample />
     </div>
   )
 }
